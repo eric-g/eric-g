@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @eric-g
+- 👀 I’m interested in test automation
